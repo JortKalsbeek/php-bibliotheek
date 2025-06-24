@@ -15,3 +15,6 @@ CREATE TABLE boeken (
     uitleendatum DATETIME NULL,
     terugbrengdatum DATE NULL
 );
+
+
+https://jortkalsbeek.github.io/php-bibliotheek/ 
