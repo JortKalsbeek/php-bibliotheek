@@ -1,6 +1,6 @@
 php-bibliotheek
 eindopdracht voor php
-
+op het moment krijg ik het niet voor elkaar om de site een github pagina te maken met een onbekende reden dit zal op een later tijdstip opgelost worden
 
 /*dit is de code die in xampp gebruikt moet worden om de database te maken*/
 
