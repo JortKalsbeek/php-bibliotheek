@@ -17,4 +17,4 @@ CREATE TABLE boeken (
 );
 
 
-https://jortkalsbeek.github.io/php-bibliotheek/index.php/ 
+https://jortkalsbeek.github.io/php-bibliotheek/index.php
