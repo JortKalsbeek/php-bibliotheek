@@ -1,6 +1,6 @@
 # php-bibliotheek
 eindopdracht voor php <br>
-op het moment krijg ik het niet voor elkaar om de site een github pagina te maken met een onbekende reden dit zal op een later tijdstip opgelost worden
+bij nader inzien kan github geen backend zoals php runnen vandaar de problemen waar ik tegen liep
 
 /*dit is de code die in xampp gebruikt moet worden om de database te maken*/
 
@@ -16,5 +16,3 @@ CREATE TABLE boeken (
     terugbrengdatum DATE NULL
 );
 
-
-https://jortkalsbeek.github.io/php-bibliotheek/index.php
